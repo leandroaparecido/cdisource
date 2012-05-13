@@ -23,7 +23,7 @@
 	<description>Spring CDI bridge to bridge the two technologies</description>
 
 	<properties>
-		<spring.version>3.0.5.RELEASE</spring.version>
+		<spring.version>3.1.1.RELEASE</spring.version>
 		<aspectj.version>1.6.11.M2</aspectj.version>
 	</properties>
 
